@@ -24,7 +24,7 @@ my %module_build_args = (
     "Michael G Schwern <schwern\@pobox.com>"
   ],
   "dist_name" => "MouseX-Role-Loggable",
-  "dist_version" => "0.112",
+  "dist_version" => "0.112001",
   "license" => "perl",
   "module_name" => "MouseX::Role::Loggable",
   "recommends" => {},
@@ -38,6 +38,7 @@ my %module_build_args = (
     "MouseX::Types" => "0.06",
     "MouseX::Types::Mouse" => 0,
     "Safe::Isa" => 0,
+    "Sys::Syslog" => "0.25",
     "namespace::sweep" => 0,
     "strict" => 0,
     "warnings" => 0

@@ -1,3 +1,9 @@
+0.112001  Tue Jan 15 15:48:48 PST 2013
+  * Need to declare a prereq on Sys::Syslog or Log::Dispatchouli pukes.
+    MooseX::Role::Loggable new this, I foolishly removed it.
+
+
 0.112   Sat Jan 12 18:49:11 PST 2013
   * First release based on MooseX::Role::Loggable 0.112.  See their
     change log for past changes.
+

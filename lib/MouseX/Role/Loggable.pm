@@ -2,7 +2,7 @@ use strict;
 use warnings;
 package MouseX::Role::Loggable;
 {
-  $MouseX::Role::Loggable::VERSION = '0.112';
+  $MouseX::Role::Loggable::VERSION = '0.112001';
 }
 # ABSTRACT: Extensive, yet simple, logging role using Log::Dispatchouli
 
@@ -198,7 +198,7 @@ MouseX::Role::Loggable - Extensive, yet simple, logging role using Log::Dispatch
 
 =head1 VERSION
 
-version 0.112
+version 0.112001
 
 =head1 SYNOPSIS
 

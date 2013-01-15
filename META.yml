@@ -32,10 +32,11 @@ requires:
   MouseX::Types: 0.06
   MouseX::Types::Mouse: 0
   Safe::Isa: 0
+  Sys::Syslog: 0.25
   namespace::sweep: 0
   strict: 0
   warnings: 0
 resources:
   bugtracker: http://github.com/schwern/Mousex-Role-Loggable/issues
   repository: http://github.com/schwern/MouseX-Role-Loggable
-version: 0.112
+version: 0.112001

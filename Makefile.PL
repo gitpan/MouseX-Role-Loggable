@@ -36,11 +36,12 @@ my %WriteMakefileArgs = (
     "MouseX::Types" => "0.06",
     "MouseX::Types::Mouse" => 0,
     "Safe::Isa" => 0,
+    "Sys::Syslog" => "0.25",
     "namespace::sweep" => 0,
     "strict" => 0,
     "warnings" => 0
   },
-  "VERSION" => "0.112",
+  "VERSION" => "0.112001",
   "test" => {
     "TESTS" => "t/*.t"
   }
